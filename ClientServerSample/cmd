@@ -1,0 +1,5 @@
+Запуск сервера:
+java -classpath out/production/ClientServerSample/ server.ServerLauncher
+
+Запуск клиента:
+java -classpath out/production/ClientServerSample/ client.ClientLauncher localhost 5000
